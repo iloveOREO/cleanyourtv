@@ -120,8 +120,9 @@ screenshots, addresses or keys to public issues.
 One China-market TCL/FFALCON unit, retail model unknown: `tcl_mt5879_cn`, Android
 11/API 30, `RQ3A.210705.001` / `2026012200`, ARMv7 userspace.
 
-- Session launcher: real video rendering, decoder release while leaving Home and
-  screen-off, resume when returning; custom boot entry verified after reboot.
+- Session launcher: real video rendering, decoder release while leaving Home, and
+  resume when returning; custom boot entry verified after reboot. Screen-off release
+  is implemented but was not separately acceptance-tested.
 - Owner confirmed physical Home, volume, source menu and game-console HDMI video/audio.
 - Session pointer: owner confirmed the cursor can click the mobile Netflix login
   button. Normal D-pad and MATVT 1.0.6 had failed to do so on this unit.
