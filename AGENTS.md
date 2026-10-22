@@ -1,3 +1,8 @@
+> **This fork branch:** the owner explicitly authorized publishing local-video Home and the
+> independent pointer companion. Read `FORK.md` before work. Video belongs only to this fork;
+> keep its implementation and companion services out of upstream feature PRs. Preserve the
+> inherited safety/privacy rules below; publish no personal configuration or media films.
+
 # AGENTS.md
 
 Instructions for coding agents (Claude Code, Codex, Gemini CLI, Cursor, Copilot and others) working in

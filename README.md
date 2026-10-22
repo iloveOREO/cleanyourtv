@@ -1,3 +1,7 @@
+> **Independent fork branch:** local-video wallpaper Home and a Netflix remote pointer.
+> Read [FORK.md](FORK.md) for source, build, permissions, recovery and real-device test limits.
+> The upstream README below describes the reference project, not these extra features.
+
 <p align="center">
   <a href="https://cleanyour.tv"><img src="https://raw.githubusercontent.com/Gathin23/cleanyourtv/main/docs/banner.png" alt="CleanYourTV. Your TV, minus the ads. Strip the bloatware from any Android TV or Google TV over Wi-Fi and replace the ad-filled home screen with a clean launcher that looks like an Apple TV. No root, no cable, nothing uninstalled, and a one-line restore." width="800"></a>
 </p>

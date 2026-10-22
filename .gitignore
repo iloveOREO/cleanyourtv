@@ -19,3 +19,6 @@ traces/
 *.aab
 launcher/hs_err_pid*.log
 launcher/replay_pid*.log
+
+# Never publish a locally created accessibility-state recovery record.
+netflix-pointer-original-state.json
